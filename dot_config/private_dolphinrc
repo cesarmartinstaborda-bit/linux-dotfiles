@@ -5,3 +5,9 @@ ViewPropsTimestamp=2026,8,13,21,14,58.875
 [KFileDialog Settings]
 Places Icons Auto-resize=false
 Places Icons Static Size=22
+
+[Notification Messages]
+warnAboutRisksBeforeActingAsAdmin=false
+
+[UiSettings]
+ColorScheme=BreezeDark
