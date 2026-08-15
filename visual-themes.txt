@@ -1,0 +1,9 @@
+# Temas KDE Plasma
+https://github.com/vinceliuice/Layan-kde
+https://github.com/vinceliuice/McMojave-kde
+https://github.com/vinceliuice/Orchis-kde
+https://github.com/vinceliuice/WhiteSur-kde
+https://github.com/yeyushengfan258/McSur-dark-kde
+
+# Temas de cursor
+https://github.com/vinceliuice/WhiteSur-cursors
